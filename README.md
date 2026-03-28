@@ -18,7 +18,7 @@ _*This project is a non-commercial case study created for educational purposes._
 
 | Section | Description |
 |--------|------------|
-|[Test Cases](./test-cases) | Gameplay and UI-focused test scenarios |
+|[Test Cases](./test-cases) | Comprehensive test scenarios for gameplay systems, UI interactions, and state transitions |
 | Bug Reports | Clear bug reports with steps and results |
 | Test Plan | Scope, objectives, and testing approach |
 | Checklist | Quick feature validation |
