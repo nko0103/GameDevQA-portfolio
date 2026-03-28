@@ -26,6 +26,7 @@ _*This project is a non-commercial case study created for educational purposes._
 --------------------
 ## Tools
 
-Jira (basic)
-Google Docs / Sheets
-GitHub
+- Jira (basic)
+- Google Docs / Sheets
+- GitHub
+- Logcat (basic, for analyzing crashes and logs)
