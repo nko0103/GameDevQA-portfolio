@@ -1,4 +1,4 @@
-About Me 🎮 
+##About Me 🎮 
 
 Hi! I'm Nataly!
 Aspiring Game QA Tester with a background in philology, extensive gaming experience, and a strong eye for detail.
@@ -12,22 +12,17 @@ Aspiring Game QA Tester with a background in philology, extensive gaming experie
 
 👉 My CV
 
-Portfolio
+##Portfolio
 
-*This project is a non-commercial case study created for educational purposes.
+_*This project is a non-commercial case study created for educational purposes._
 
-Test Cases	Gameplay and UI-focused test scenarios
-Bug Reports	Clear bug reports with steps and results
-Test Plan	Scope, objectives, and testing approach
-Checklist	Quick feature validation
-Final Report	Summary of testing and findings
-
-🛠️ Skills
-Attention to Detail
-Localization & Text Review
-Bug Reporting
-Analytical Thinking
-Communication
+| Section | Description |
+|--------|------------|
+| Test Cases | Gameplay and UI-focused test scenarios |
+| Bug Reports | Clear bug reports with steps and results |
+| Test Plan | Scope, objectives, and testing approach |
+| Checklist | Quick feature validation |
+| Final Report | Summary of testing and findings |
 
 🔧 Tools
 Jira (basic)
