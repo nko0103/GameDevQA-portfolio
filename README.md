@@ -1,4 +1,4 @@
-##About Me 🎮 
+## About Me 🎮 
 
 Hi! I'm Nataly!
 Aspiring Game QA Tester with a background in philology, extensive gaming experience, and a strong eye for detail.
@@ -12,7 +12,7 @@ Aspiring Game QA Tester with a background in philology, extensive gaming experie
 
 👉 My CV
 
-##Portfolio
+## Portfolio
 
 _*This project is a non-commercial case study created for educational purposes._
 
@@ -24,7 +24,8 @@ _*This project is a non-commercial case study created for educational purposes._
 | Checklist | Quick feature validation |
 | Final Report | Summary of testing and findings |
 
-🔧 Tools
+## Tools
+--------------------
 Jira (basic)
 Google Docs / Sheets
 GitHub
