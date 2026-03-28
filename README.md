@@ -23,9 +23,9 @@ _*This project is a non-commercial case study created for educational purposes._
 | Test Plan | Scope, objectives, and testing approach |
 | Checklist | Quick feature validation |
 | Final Report | Summary of testing and findings |
-
-## Tools
 --------------------
+## Tools
+
 Jira (basic)
 Google Docs / Sheets
 GitHub
