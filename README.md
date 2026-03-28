@@ -26,7 +26,9 @@ _*This project is a non-commercial case study created for educational purposes._
 --------------------
 ## Tools
 
-- Jira (basic)
-- Google Docs / Sheets
-- GitHub
-- Logcat (basic, for analyzing crashes and logs)
+- Jira (basic)  
+- TestRail (basic, test case management)  
+- Google Docs / Sheets  
+- GitHub  
+- Logcat (basic, used for analyzing logs and identifying issues)  
+- MSI Afterburner (basic, monitoring performance and hardware metrics) 
