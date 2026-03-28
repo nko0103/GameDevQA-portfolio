@@ -20,7 +20,7 @@ _*This project is a non-commercial case study created for educational purposes._
 |--------|------------|
 | [Test Cases](./test-cases) | Comprehensive test scenarios for gameplay systems, UI interactions, and state transitions |
 | [Bug Reports](./bug-reports) | Structured bug reports with clear steps to reproduce, expected vs actual results |
-| [Test Plan]((https://docs.google.com/document/d/1VIsQWy7OJqczc7Lt6zTQQ1b9C2xCfgS0hhb2OpImtk8/edit?usp=sharing)) | Scope, objectives, and testing approach |
+| [Test Plan](https://docs.google.com/document/d/1VIsQWy7OJqczc7Lt6zTQQ1b9C2xCfgS0hhb2OpImtk8/edit?usp=sharing) | Scope, objectives, and testing approach |
 | Checklist | Quick feature validation |
 | Final Report | Summary of testing and findings |
 --------------------
