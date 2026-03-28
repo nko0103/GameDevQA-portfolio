@@ -32,4 +32,11 @@ _*This project is a non-commercial case study created for educational purposes._
 - Google Docs / Sheets  
 - GitHub  
 - Logcat (basic, used for analyzing logs and identifying issues)  
-- MSI Afterburner (basic, monitoring performance and hardware metrics) 
+- MSI Afterburner (basic, monitoring performance and hardware metrics)
+-------------------- 
+## Focus Area
+
+- RPG game systems  
+- Character creation and progression  
+- Dialogue systems and branching choices  
+- State-based mechanics and player decisions  
