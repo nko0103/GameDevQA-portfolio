@@ -22,7 +22,7 @@ _*This project is a non-commercial case study created for educational purposes._
 | [Bug Reports](./bug-reports) | Structured bug reports with clear steps to reproduce, expected vs actual results |
 | [Test Plan](https://docs.google.com/document/d/1VIsQWy7OJqczc7Lt6zTQQ1b9C2xCfgS0hhb2OpImtk8/edit?usp=sharing) | Detailed testing scope, objectives, and strategy |
 | [Checklist](./checklist) | Checklist for testing core game features and non-functional aspects |
-| Final Report | Summary of testing and findings |
+| [Final Report[(https://docs.google.com/document/d/1KtCJhLnc5fiJjnZX1Gv0PTLLNnWKQM5ME5z2ypK2rnA/edit?usp=sharing) | Summary of testing and findings |
 --------------------
 ## Tools
 
