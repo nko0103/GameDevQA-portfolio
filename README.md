@@ -26,13 +26,13 @@ _*This project is a non-commercial case study created for educational purposes._
 --------------------
 ## Tools
 
-- Jira (basic)  
-- TestRail (basic, test case management)
-- Testomat.io (basic, test management and test case organization) 
+- Jira  
+- TestRail (test case management)
+- Testomat.io (test management and test case organization) 
 - Google Docs / Sheets  
 - GitHub  
-- Logcat (basic, used for analyzing logs and identifying issues)  
-- MSI Afterburner (basic, monitoring performance and hardware metrics)
+- Logcat (used for analyzing logs and identifying issues)  
+- MSI Afterburner (monitoring performance and hardware metrics)
 -------------------- 
 ## Focus Area
 
