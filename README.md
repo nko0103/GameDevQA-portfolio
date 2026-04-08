@@ -10,7 +10,7 @@ Aspiring Game QA Tester with a background in philology, extensive gaming experie
 
 🚀 Currently looking for my first opportunity in Game QA.
 
-👉 [My CV](https://docs.google.com/document/d/1mxjNHRb1h6sElikhCmt5ZY2Z8TmkfzzM3FytZQ2KEP0/edit?usp=sharing](https://drive.google.com/file/d/11-J_YhnUBmMdBlEo3DYzQYI-1oAi9CcH/view?usp=sharing)
+👉 [My CV](https://docs.google.com/document/d/1mxjNHRb1h6sElikhCmt5ZY2Z8TmkfzzM3FytZQ2KEP0/edit?usp=sharing](https://drive.google.com/file/d/11-J_YhnUBmMdBlEo3DYzQYI-1oAi9CcH/view?usp=sharing)) 
 
 ## Portfolio
 
